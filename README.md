@@ -1,6 +1,6 @@
 <div class="wp-block-cover alignfull is-light">
 <div class="wp-block-cover__inner-container">
-<meta name="description" content="Setup Office or Microsoft 365 use your Microsoft account for the redemption visit Microsoft365.com/setup to install and activate Office." />
+
 <h1 class="has-text-align-center has-text-color has-medium-font-size">Microsoft365.com/setup</h1>
 <p class="has-text-align-center has-text-color">Setup Office or Microsoft 365 use your Microsoft account for the redemption of the newly purchased Office 365 product key visit Microsoft365.com/setup and use your Microsoft account, not your product key, to install and activate Office and individually purchased Office apps, such as Project, Visio, Word, Excel, and Outlook. Sign in with your Microsoft account for the redemption of the product key, enter your product key next. Then, you can easily find the option to Activate Download &amp; Setup Microsoft 365 and its other additions. Use the premium features of Office 365 versions of Word, Excel, PowerPoint, Outlook, Acess, Publisher, Onedrive, Onenote, and Microsoft Team it&rsquo;s more important to have an activated Microsoft 365 subscription You may also sign in to your Microsoft365.com/setup account to buy a subscription or redeem a product key purchased from a retail store.</p>
 <div class="wp-container-1 wp-block-buttons">&nbsp;</div>
